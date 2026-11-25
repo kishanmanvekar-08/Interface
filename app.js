@@ -1,0 +1,1 @@
+// The logo and wordmark animations are styled in CSS; this module keeps the entrypoint modular.
